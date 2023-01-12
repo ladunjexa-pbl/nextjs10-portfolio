@@ -136,12 +136,20 @@ At the main folder execute the following command in console to get the required 
 
 #### Step 4:
 
+At the main folder execute the following command in console to creates a build directory with a production build of next-portfolio:
+
+```bash
+  npm run build
+```
+
+#### Step 5:
+
 At the main folder execute the following command in console to run the server:
 
 ```bash
   npm run start
 ```
-  
+
 <!-- Run Locally -->
 ### :running: Run Locally
 
