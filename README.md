@@ -71,7 +71,7 @@
 ## :star2: About the Project
 
 <div align="center">
-  <img src="readme_assets/Portfolio-mockup.png" height="auto" width="90%"/>
+  <img src="readme_assets/Portfolio-mockup.png" height="auto" width="65%"/>
 </div>
 
 <br />
