@@ -33,7 +33,7 @@
 </p>
    
  <h4>
-    <a href="https://github.com/ladunjexa/Next-Portfolio-Web/">View Demo</a>
+    <a href="https://next-portfolio-web-rho.vercel.app/">View Demo</a>
   <span> · </span>
     <a href="https://github.com/ladunjexa/Next-Portfolio-Web">Documentation</a>
   <span> · </span>
